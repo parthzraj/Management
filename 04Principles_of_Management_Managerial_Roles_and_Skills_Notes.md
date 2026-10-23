@@ -1,9 +1,11 @@
 # Principles of Management — Exam-Oriented Notes
+
 ## Lecture: Managerial Roles and Managerial Skills
 
 > **Source note:** These notes are based on the supplied Hindi auto-transcribed lecture subtitles. Some English terms were mistranscribed by speech recognition. The academic meaning has been reconstructed where clear; the notes do not reproduce channel promotions or other non-academic material.
 
 ## Table of Contents
+
 1. Lecture overview
 2. Managerial roles: meaning
 3. Mintzberg's managerial roles
@@ -19,6 +21,7 @@
 ## 1. Lecture Overview
 
 The lecture covers:
+
 - The meaning of a managerial role.
 - Henry Mintzberg's three categories of managerial roles: interpersonal, informational, and decisional.
 - The ten roles that fall under those categories.
@@ -29,7 +32,9 @@ The lecture covers:
 The lecture briefly revisits the three management levels—top, middle, and lower/operational—so that the roles and skills can be understood in context.
 
 ### Learning objectives
+
 By the end of these notes, you should be able to:
+
 - Define managerial roles and managerial skills.
 - Name and explain Mintzberg's ten managerial roles.
 - Give a practical example of each role.
@@ -61,6 +66,7 @@ Interpersonal roles arise from a manager's formal authority and relationships wi
 **Meaning:** The manager performs ceremonial and symbolic duties and represents the organisation.
 
 **Main activities:**
+
 - Attending official functions and public events.
 - Greeting and hosting visitors or clients.
 - Representing the organisation at formal occasions.
@@ -75,6 +81,7 @@ Interpersonal roles arise from a manager's formal authority and relationships wi
 **Meaning:** The manager guides, motivates, and directs employees to achieve organisational objectives.
 
 **Main activities:**
+
 - Setting goals for team members.
 - Providing guidance and direction.
 - Motivating and supporting employees.
@@ -89,6 +96,7 @@ Interpersonal roles arise from a manager's formal authority and relationships wi
 **Meaning:** The manager acts as a link or bridge between people, departments, and external stakeholders.
 
 **Main activities:**
+
 - Building relationships across departments.
 - Facilitating communication and cooperation.
 - Connecting the organisation with relevant external contacts.
@@ -107,6 +115,7 @@ Informational roles concern collecting, processing, and communicating informatio
 **Meaning:** The manager gathers and observes relevant information about what is happening inside and outside the organisation.
 
 **Main activities:**
+
 - Monitoring organisational performance.
 - Gathering reports, updates, and feedback.
 - Observing changes in the business environment.
@@ -121,6 +130,7 @@ Informational roles concern collecting, processing, and communicating informatio
 **Meaning:** The manager passes relevant information to people within the organisation.
 
 **Main activities:**
+
 - Sharing important updates, plans, and changes with employees.
 - Communicating information from senior management to the appropriate teams.
 - Ensuring that employees receive information needed for their work.
@@ -134,6 +144,7 @@ Informational roles concern collecting, processing, and communicating informatio
 **Meaning:** The manager communicates information about the organisation to people outside it or represents the organisation publicly.
 
 **Main activities:**
+
 - Explaining organisational plans, policies, and goals to external audiences.
 - Communicating with the media, clients, investors, or other relevant groups.
 - Representing the organisation at public events and official discussions.
@@ -151,6 +162,7 @@ Decisional roles involve making choices and taking action. Mintzberg's four role
 **Meaning:** The manager initiates or encourages change, innovation, and improvement.
 
 **Main activities:**
+
 - Identifying opportunities for improvement.
 - Developing or encouraging new ideas.
 - Initiating projects and changes.
@@ -167,6 +179,7 @@ Decisional roles involve making choices and taking action. Mintzberg's four role
 **Meaning:** The manager responds to unexpected problems, crises, disputes, or conflicts and works to resolve them.
 
 **Main activities:**
+
 - Handling internal disagreements.
 - Responding to unexpected operational problems.
 - Resolving conflicts between teams or with external stakeholders.
@@ -177,6 +190,7 @@ Decisional roles involve making choices and taking action. Mintzberg's four role
 **Exam keyword:** *Resolving conflicts and unexpected disruptions.*
 
 **Stakeholders vs shareholders:**
+
 - **Stakeholders** are people or groups affected by, or connected with, an organisation. Examples include employees, customers, suppliers, lenders, government bodies, and the local community.
 - **Shareholders** own shares in a company and therefore hold an ownership interest.
 
@@ -187,6 +201,7 @@ Shareholders are one type of stakeholder, but not all stakeholders are sharehold
 **Meaning:** The manager decides how organisational resources should be distributed and used.
 
 **Resources may include:**
+
 - Time.
 - Money and budgets.
 - Employees and other manpower.
@@ -194,6 +209,7 @@ Shareholders are one type of stakeholder, but not all stakeholders are sharehold
 - Equipment and other physical resources.
 
 **Main activities:**
+
 - Setting priorities for the use of resources.
 - Assigning budgets and staff to activities.
 - Ensuring resources are available where and when needed.
@@ -208,6 +224,7 @@ Shareholders are one type of stakeholder, but not all stakeholders are sharehold
 **Meaning:** The manager negotiates with other parties to reach an acceptable agreement.
 
 **Main activities:**
+
 - Discussing terms with suppliers, clients, or partners.
 - Negotiating prices, deadlines, or responsibilities.
 - Resolving differences through discussion.
@@ -219,18 +236,18 @@ Shareholders are one type of stakeholder, but not all stakeholders are sharehold
 
 ### 3.4 Summary of all ten roles
 
-| Category | Role | Main responsibility | Example |
-|---|---|---|---|
-| Interpersonal | Figurehead | Ceremonial and symbolic representation | Welcoming official visitors |
-| Interpersonal | Leader | Guiding and motivating employees | Helping a team meet its targets |
-| Interpersonal | Liaison | Connecting people and departments | Coordinating production and sales |
-| Informational | Monitor | Collecting and observing information | Reviewing reports and feedback |
-| Informational | Disseminator | Sharing information internally | Explaining a new policy to employees |
-| Informational | Spokesperson | Communicating externally | Speaking to the press for the company |
-| Decisional | Entrepreneur | Initiating change and innovation | Introducing a new process |
-| Decisional | Disturbance handler | Resolving conflicts and crises | Settling a dispute between teams |
-| Decisional | Resource allocator | Distributing resources | Assigning staff and budget to projects |
-| Decisional | Negotiator | Reaching agreements | Negotiating supplier prices |
+| Category      | Role                | Main responsibility                    | Example                                |
+| ------------- | ------------------- | -------------------------------------- | -------------------------------------- |
+| Interpersonal | Figurehead          | Ceremonial and symbolic representation | Welcoming official visitors            |
+| Interpersonal | Leader              | Guiding and motivating employees       | Helping a team meet its targets        |
+| Interpersonal | Liaison             | Connecting people and departments      | Coordinating production and sales      |
+| Informational | Monitor             | Collecting and observing information   | Reviewing reports and feedback         |
+| Informational | Disseminator        | Sharing information internally         | Explaining a new policy to employees   |
+| Informational | Spokesperson        | Communicating externally               | Speaking to the press for the company  |
+| Decisional    | Entrepreneur        | Initiating change and innovation       | Introducing a new process              |
+| Decisional    | Disturbance handler | Resolving conflicts and crises         | Settling a dispute between teams       |
+| Decisional    | Resource allocator  | Distributing resources                 | Assigning staff and budget to projects |
+| Decisional    | Negotiator          | Reaching agreements                    | Negotiating supplier prices            |
 
 ### 3.5 Memory aids
 
@@ -251,6 +268,7 @@ You can memorise the categories first, then recall the roles in each category.
 In simple terms, managerial skills describe **what a manager needs to be good at** in order to perform the job.
 
 The lecture attributes the three-skill framework to **Robert L. Katz**:
+
 1. Technical skills.
 2. Human skills.
 3. Conceptual skills.
@@ -270,6 +288,7 @@ The lecture associates technical skills most strongly with lower-level managemen
 **Example from the lecture:** If a machine in a production department stops working, a supervisor with relevant technical knowledge can identify the problem or coordinate the correct technical response.
 
 **Other examples:**
+
 - Understanding a production process.
 - Using relevant software or equipment.
 - Knowing quality-control procedures.
@@ -288,6 +307,7 @@ The lecture also refers to these as **interpersonal skills**.
 **Why they matter:** Middle managers communicate with senior management above them and employees or supervisors below them. They must explain plans, listen to concerns, coordinate departments, motivate people, and maintain working relationships.
 
 **Examples:**
+
 - Explaining a new policy clearly.
 - Resolving a disagreement between team members.
 - Motivating employees.
@@ -305,6 +325,7 @@ The lecture also refers to these as **interpersonal skills**.
 **Why they matter:** Senior managers make decisions that affect the entire organisation. They need to consider the organisation's vision, strategy, external environment, long-term goals, and the relationships between departments.
 
 **Examples:**
+
 - Developing a long-term business strategy.
 - Understanding how a change in marketing affects production and finance.
 - Analysing a complex organisational problem.
@@ -315,11 +336,11 @@ The lecture also refers to these as **interpersonal skills**.
 
 ### 5.4 Relationship between management level and skill
 
-| Management level | Skill emphasised in the lecture | Why it matters | Example |
-|---|---|---|---|
-| Top level | Conceptual | Strategy, vision, complex decisions, whole-organisation perspective | Deciding to enter a new market |
-| Middle level | Human | Communicating with senior managers and teams; coordinating people | Explaining a new plan to departments |
-| Lower/operational level | Technical | Understanding work methods and solving job-related problems | Helping resolve a production-process issue |
+| Management level        | Skill emphasised in the lecture | Why it matters                                                      | Example                                    |
+| ----------------------- | ------------------------------- | ------------------------------------------------------------------- | ------------------------------------------ |
+| Top level               | Conceptual                      | Strategy, vision, complex decisions, whole-organisation perspective | Deciding to enter a new market             |
+| Middle level            | Human                           | Communicating with senior managers and teams; coordinating people   | Explaining a new plan to departments       |
+| Lower/operational level | Technical                       | Understanding work methods and solving job-related problems         | Helping resolve a production-process issue |
 
 **Important qualification:** This table reflects the lecture's simplified association. In practice, technical skills are useful at every level, human skills are important at every level, and conceptual skills become especially important as responsibility for the whole organisation increases.
 
@@ -337,24 +358,25 @@ This shows how the three skills complement one another.
 
 ### 6.1 Managerial roles vs managerial skills
 
-| Managerial roles | Managerial skills |
-|---|---|
+| Managerial roles                                             | Managerial skills                                           |
+| ------------------------------------------------------------ | ----------------------------------------------------------- |
 | Describe the activities and behaviour expected of a manager. | Describe the abilities a manager needs to perform the work. |
-| Answer: “What does a manager do?” | Answer: “What must a manager be able to do well?” |
-| Framework in this lecture: Henry Mintzberg. | Framework in this lecture: Robert L. Katz. |
-| Examples: monitor, leader, negotiator. | Examples: technical, human, conceptual. |
+| Answer: “What does a manager do?”                          | Answer: “What must a manager be able to do well?”         |
+| Framework in this lecture: Henry Mintzberg.                  | Framework in this lecture: Robert L. Katz.                  |
+| Examples: monitor, leader, negotiator.                       | Examples: technical, human, conceptual.                     |
 
 ### 6.2 Monitor vs disseminator vs spokesperson
 
-| Role | Main direction of information | Core action |
-|---|---|---|
-| Monitor | Information is gathered from relevant sources | Collect and observe |
-| Disseminator | Information is passed to people inside the organisation | Share internally |
-| Spokesperson | Information is communicated to external audiences | Represent and explain externally |
+| Role         | Main direction of information                           | Core action                      |
+| ------------ | ------------------------------------------------------- | -------------------------------- |
+| Monitor      | Information is gathered from relevant sources           | Collect and observe              |
+| Disseminator | Information is passed to people inside the organisation | Share internally                 |
+| Spokesperson | Information is communicated to external audiences       | Represent and explain externally |
 
 ### 6.3 Figurehead vs spokesperson
 
 Both roles involve representing the organisation, but their emphasis differs:
+
 - **Figurehead:** formal, ceremonial, and symbolic duties.
 - **Spokesperson:** communicating the organisation's goals, plans, policies, or position to external audiences.
 
@@ -369,40 +391,40 @@ Negotiation can help resolve a disturbance, but the roles are not identical.
 
 ### A. Very short-answer questions
 
-**1. Define a managerial role.**  
+**1. Define a managerial role.**
 A managerial role is a pattern of behaviour or set of activities performed by a manager as part of their responsibilities in an organisation.
 
-**2. Who developed the managerial roles framework discussed in the lecture?**  
+**2. Who developed the managerial roles framework discussed in the lecture?**
 Henry Mintzberg.
 
-**3. Name the three categories of managerial roles.**  
+**3. Name the three categories of managerial roles.**
 Interpersonal, informational, and decisional roles.
 
-**4. How many roles are included in Mintzberg's framework?**  
+**4. How many roles are included in Mintzberg's framework?**
 Ten roles: three interpersonal, three informational, and four decisional.
 
-**5. What is a figurehead role?**  
+**5. What is a figurehead role?**
 It is the role in which a manager performs ceremonial and symbolic duties and formally represents the organisation.
 
-**6. What does a liaison do?**  
+**6. What does a liaison do?**
 A liaison connects people, departments, and external contacts to support communication and cooperation.
 
-**7. What is the role of a disseminator?**  
+**7. What is the role of a disseminator?**
 A disseminator shares relevant information with people inside the organisation.
 
-**8. What is a resource allocator?**  
+**8. What is a resource allocator?**
 A resource allocator decides how resources such as time, money, staff, and materials should be distributed.
 
-**9. Who developed the three-skill framework discussed in the lecture?**  
+**9. Who developed the three-skill framework discussed in the lecture?**
 Robert L. Katz.
 
-**10. Name the three managerial skills.**  
+**10. Name the three managerial skills.**
 Technical, human, and conceptual skills.
 
-**11. Which skill is emphasised for top-level managers in the lecture?**  
+**11. Which skill is emphasised for top-level managers in the lecture?**
 Conceptual skills.
 
-**12. Which skill is emphasised for lower-level managers in the lecture?**  
+**12. Which skill is emphasised for lower-level managers in the lecture?**
 Technical skills.
 
 ### B. Short-answer questions
@@ -410,6 +432,7 @@ Technical skills.
 **1. Explain Mintzberg's interpersonal roles.**
 
 Mintzberg identified three interpersonal roles:
+
 1. **Figurehead:** Performs formal, ceremonial, and symbolic duties and represents the organisation.
 2. **Leader:** Guides, motivates, and directs employees towards organisational objectives.
 3. **Liaison:** Maintains relationships and acts as a bridge between departments and external contacts.
@@ -417,6 +440,7 @@ Mintzberg identified three interpersonal roles:
 **2. Explain Mintzberg's informational roles.**
 
 The three informational roles are:
+
 1. **Monitor:** Collects and observes information about organisational performance and the environment.
 2. **Disseminator:** Shares relevant information with employees and other internal members.
 3. **Spokesperson:** Communicates information about the organisation to external audiences.
@@ -424,6 +448,7 @@ The three informational roles are:
 **3. Explain Mintzberg's decisional roles.**
 
 The four decisional roles are:
+
 1. **Entrepreneur:** Initiates innovation and organisational improvement.
 2. **Disturbance handler:** Responds to conflicts, crises, and unexpected problems.
 3. **Resource allocator:** Distributes time, money, staff, materials, and other resources.
@@ -446,6 +471,7 @@ Managerial roles describe the activities a manager performs, such as leading, mo
 **Introduction:** Henry Mintzberg classified managerial work into three categories: interpersonal, informational, and decisional roles.
 
 **Interpersonal roles:**
+
 1. **Figurehead:** Performs ceremonial duties and represents the organisation; for example, welcoming official visitors.
 2. **Leader:** Guides and motivates employees; for example, helping a team meet its targets.
 3. **Liaison:** Connects departments and external contacts; for example, coordinating production and sales.
@@ -479,43 +505,43 @@ Mintzberg's framework describes what managers do, while Katz's framework describ
 
 ### D. Application-based questions
 
-**1. A manager welcomes official visitors and represents the company at a formal ceremony. Identify the role.**  
+**1. A manager welcomes official visitors and represents the company at a formal ceremony. Identify the role.**
 Figurehead.
 
-**2. A manager motivates employees and guides them towards their targets. Identify the role.**  
+**2. A manager motivates employees and guides them towards their targets. Identify the role.**
 Leader.
 
-**3. A manager helps production and sales share information to coordinate output with demand. Identify the role.**  
+**3. A manager helps production and sales share information to coordinate output with demand. Identify the role.**
 Liaison.
 
-**4. A manager reviews reports and customer feedback to understand business performance. Identify the role.**  
+**4. A manager reviews reports and customer feedback to understand business performance. Identify the role.**
 Monitor.
 
-**5. A manager communicates a new policy to employees after receiving it from senior management. Identify the role.**  
+**5. A manager communicates a new policy to employees after receiving it from senior management. Identify the role.**
 Disseminator.
 
-**6. A company executive explains the company's strategy to the media. Identify the role.**  
+**6. A company executive explains the company's strategy to the media. Identify the role.**
 Spokesperson.
 
-**7. A manager proposes and implements a new system to reduce waste. Identify the role.**  
+**7. A manager proposes and implements a new system to reduce waste. Identify the role.**
 Entrepreneur.
 
-**8. A manager resolves a sudden conflict between two departments. Identify the role.**  
+**8. A manager resolves a sudden conflict between two departments. Identify the role.**
 Disturbance handler.
 
-**9. A manager decides how to divide the budget and employees among projects. Identify the role.**  
+**9. A manager decides how to divide the budget and employees among projects. Identify the role.**
 Resource allocator.
 
-**10. A manager negotiates delivery dates and prices with a supplier. Identify the role.**  
+**10. A manager negotiates delivery dates and prices with a supplier. Identify the role.**
 Negotiator.
 
-**11. A supervisor understands a machine's operating process and helps address a technical issue. Identify the skill.**  
+**11. A supervisor understands a machine's operating process and helps address a technical issue. Identify the skill.**
 Technical skill.
 
-**12. A department head communicates plans to senior management and employees and resolves team disagreements. Identify the skill.**  
+**12. A department head communicates plans to senior management and employees and resolves team disagreements. Identify the skill.**
 Human skill.
 
-**13. A CEO evaluates the long-term effects of entering a new market. Identify the skill.**  
+**13. A CEO evaluates the long-term effects of entering a new market. Identify the skill.**
 Conceptual skill.
 
 ## 8. Quick Revision Sheet
@@ -523,16 +549,19 @@ Conceptual skill.
 ### Mintzberg's 10 roles
 
 **Interpersonal — FLL**
+
 - **F**igurehead: ceremonial representation.
 - **L**eader: guides and motivates people.
 - **L**iaison: connects people and departments.
 
 **Informational — MDS**
+
 - **M**onitor: gathers and observes information.
 - **D**isseminator: shares information internally.
 - **S**pokesperson: communicates externally.
 
 **Decisional — EDRN**
+
 - **E**ntrepreneur: initiates innovation and change.
 - **D**isturbance handler: resolves crises and conflicts.
 - **R**esource allocator: distributes resources.
@@ -545,10 +574,12 @@ Conceptual skill.
 - **Conceptual:** strategic thinking and whole-organisation understanding; emphasised at the top level.
 
 ### Key distinction
+
 - **Roles = what a manager does.**
 - **Skills = what a manager needs to do the work well.**
 
 ### Common exam mistakes to avoid
+
 - Do not confuse **liaison** (connecting people and groups) with **spokesperson** (communicating externally).
 - Do not confuse **monitor** (gathering information) with **disseminator** (sharing information internally).
 - Do not confuse **disturbance handler** (responding to a crisis or conflict) with **negotiator** (reaching an agreement).
@@ -556,6 +587,7 @@ Conceptual skill.
 - Remember the names accurately: **Henry Mintzberg** for managerial roles and **Robert L. Katz** for the three-skill framework.
 
 ### Self-test checklist
+
 - [ ] Define managerial roles and managerial skills.
 - [ ] Name all three of Mintzberg's role categories.
 - [ ] Explain all ten roles with one example each.
@@ -566,24 +598,25 @@ Conceptual skill.
 
 ## 9. Coverage and Transcription Notes
 
-| Topic in the supplied subtitles | Coverage in these notes |
-|---|---|
-| Three levels of management | Briefly reviewed for context |
-| Meaning of managerial roles | Covered |
-| Henry Mintzberg's framework | Covered |
-| Interpersonal roles: figurehead, leader, liaison | Covered |
-| Informational roles: monitor, disseminator, spokesperson | Covered |
-| Decisional roles: entrepreneur, disturbance handler, resource allocator, negotiator | Covered |
-| Stakeholders vs shareholders | Covered |
-| Meaning of managerial skills | Covered |
-| Robert L. Katz's three skills | Covered |
-| Technical skills and production-machine example | Covered |
-| Human skills and communication between management levels | Covered |
-| Conceptual skills and strategic decision-making | Covered |
-| Detailed definitions of the three management levels | Only briefly revisited; see the separate management-level lecture notes if available |
-| Other syllabus topics such as planning, decision-making, business organisation types, and evolution of management | Not substantively taught in this lecture excerpt |
+| Topic in the supplied subtitles                                                                                   | Coverage in these notes                                                              |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Three levels of management                                                                                        | Briefly reviewed for context                                                         |
+| Meaning of managerial roles                                                                                       | Covered                                                                              |
+| Henry Mintzberg's framework                                                                                       | Covered                                                                              |
+| Interpersonal roles: figurehead, leader, liaison                                                                  | Covered                                                                              |
+| Informational roles: monitor, disseminator, spokesperson                                                          | Covered                                                                              |
+| Decisional roles: entrepreneur, disturbance handler, resource allocator, negotiator                               | Covered                                                                              |
+| Stakeholders vs shareholders                                                                                      | Covered                                                                              |
+| Meaning of managerial skills                                                                                      | Covered                                                                              |
+| Robert L. Katz's three skills                                                                                     | Covered                                                                              |
+| Technical skills and production-machine example                                                                   | Covered                                                                              |
+| Human skills and communication between management levels                                                          | Covered                                                                              |
+| Conceptual skills and strategic decision-making                                                                   | Covered                                                                              |
+| Detailed definitions of the three management levels                                                               | Only briefly revisited; see the separate management-level lecture notes if available |
+| Other syllabus topics such as planning, decision-making, business organisation types, and evolution of management | Not substantively taught in this lecture excerpt                                     |
 
 ### Transcription corrections and limits
+
 - Speech recognition garbled several English terms. They have been standardised to **liaison**, **disseminator**, **spokesperson**, **disturbance handler**, **resource allocator**, and **conceptual skills** where the intended term was clear.
 - The lecture's memory acronyms are inconsistent in the transcript. The standard role groupings and initials in Section 3.5 are provided as a more reliable study aid.
 - The lecturer attributes the role framework to Henry Mintzberg and the skills framework to Robert L. Katz; these names are standardised in the notes.
