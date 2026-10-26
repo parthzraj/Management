@@ -1,2 +1,4 @@
+
 # Management
+
 Notes of Management
